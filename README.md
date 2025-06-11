@@ -52,11 +52,6 @@ services:
     restart: unless-stopped
 ```
 
-4. 启动服务：
-```bash
-docker-compose up -d
-```
-
 ## 环境变量说明
 
 | 变量名 | 必需 | 描述 | 示例 |
